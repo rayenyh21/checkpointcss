@@ -1,0 +1,56 @@
+body {
+    background-color: #af7bcf;
+    text-align: center;
+  }
+
+nav{
+    border: 1px #102B3F solid; width: 450px;
+    text-decoration: none;
+    padding: 15 px;
+    text-align: center;
+    display:inline-block;
+
+}
+
+.link {
+    text-decoration: none;
+    color: #102B3F;
+
+}
+.link2{
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+.title0{ 
+    width: 500 px;
+	color: #ffffff ;
+	font-family: roboto;
+    text-align: center;
+    
+}
+
+
+.title1 {
+	color: #ffffff ;
+	font-family: roboto;
+    text-align: center;
+}
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+#linkedin1 {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+#welcome{
+    color: black;
+    font-family: roboto;
+    text-align: center;
+
+}
